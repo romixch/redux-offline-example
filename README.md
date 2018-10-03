@@ -10,6 +10,10 @@ Now you see a stupid UI. Open the developer console. Watch what is in the Indexe
 
 This is not yet amazing. Set your browser to offline mode and see how the IndexedDB bahaves when you add items. It keeps network actions there and executes them as soon as you go back online.
 
+# Tell me more
+
+In order to find out more go to the [documentation of redux-offline](https://github.com/redux-offline/redux-offline/tree/develop/docs). It explains it in an easy way.
+
 # TODOs
 
 - Get rid of the enthusiasm stuff from react template.
